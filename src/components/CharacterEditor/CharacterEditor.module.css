@@ -36,7 +36,7 @@
 }
 
 .greyBg{
-  background-color: grey;
+  background-color: hsl(195deg, 20%, 86%);
   position: fixed;
   top: 60%;
   height: 40%;
