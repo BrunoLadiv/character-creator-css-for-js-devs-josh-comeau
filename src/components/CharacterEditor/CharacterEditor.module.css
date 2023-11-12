@@ -34,3 +34,12 @@
 .controlColumn {
   width: 50%;
 }
+
+.greyBg{
+  background-color: grey;
+  position: fixed;
+  top: 60%;
+  height: 40%;
+  width: 100%;
+  z-index: -999;
+}
